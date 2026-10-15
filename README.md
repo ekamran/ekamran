@@ -10,7 +10,7 @@ WordPress core contributor from Mumbai. I fix years-old WordPress bugs with test
 
 | Area | Where |
 |---|---|
-| WordPress core | Two commits with props: [r63566](https://core.trac.wordpress.org/changeset/63566) (shipped in 7.1.1) and [r63590](https://core.trac.wordpress.org/changeset/63590) (7.2) |
+| WordPress core | Commits with props, listed live on [Core Trac](https://core.trac.wordpress.org/search?q=ekamran&changeset=on&noquickjump=1) |
 | Hosting Team | The [hosting test runner](https://github.com/WordPress/phpunit-test-runner/pulls?q=is%3Apr+author%3Aekamran) and the [Hosting Handbook](https://github.com/WordPress/hosting-handbook/pulls?q=is%3Apr+author%3Aekamran) |
 | AI plugin | [Merged pull requests in WordPress/ai](https://github.com/WordPress/ai/pulls?q=is%3Apr+author%3Aekamran+is%3Amerged) |
 | WP-CLI | [Pull requests across wp-cli](https://github.com/pulls?q=is%3Apr+author%3Aekamran+org%3Awp-cli) |
