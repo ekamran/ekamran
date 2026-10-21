@@ -27,7 +27,7 @@ Running ShifteQ means every hour I give WordPress is an hour away from client wo
 - **Individuals:** any monthly or one-time amount on [GitHub Sponsors](https://github.com/sponsors/ekamran), or a [coffee](https://buymeacoffee.com/ekamran).
 - **Companies:** 1 or 2 hours a week on [GitHub Sponsors](https://github.com/sponsors/ekamran), listed on your [Five for the Future](https://wordpress.org/five-for-the-future/) pledge, with every month's hours logged here in public. For more hours or an invoice through ShifteQ, my company, just reach out.
 
-Sponsors get no say in what I work on. Everything stays public.
+Everything stays public.
 
 ## Sponsors
 
