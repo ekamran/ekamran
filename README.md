@@ -25,7 +25,7 @@ How I work: pick a bug that has been open for years, reproduce it with a runtime
 Running ShifteQ means every hour I give WordPress is an hour away from client work. Today that is six hours a week: four through ShifteQ's Five for the Future pledge and two of my own time. Sponsorship pays for more of those hours.
 
 - **Individuals:** any monthly or one-time amount on [GitHub Sponsors](https://github.com/sponsors/ekamran), or a [coffee](https://buymeacoffee.com/ekamran).
-- **Companies:** 1 or 2 hours a week on [GitHub Sponsors](https://github.com/sponsors/ekamran), listed on your [Five for the Future](https://wordpress.org/five-for-the-future/) pledge, with every month's hours logged here in public. For more hours or an invoice through ShifteQ, my company, just reach out.
+- **Companies:** 1 or 2 hours a week on [GitHub Sponsors](https://github.com/sponsors/ekamran), listed on your [Five for the Future](https://wordpress.org/five-for-the-future/) pledge, with every month's hours logged here in public. For more hours or an invoice through ShifteQ, my company, just [reach out](https://ekamran.com).
 
 Everything stays public.
 
