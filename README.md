@@ -11,15 +11,12 @@ WordPress core contributor from Mumbai. I fix years-old WordPress bugs with test
 | Area | Where |
 |---|---|
 | WordPress core | Commits with props, listed live on [Core Trac](https://core.trac.wordpress.org/search?q=ekamran&changeset=on&noquickjump=1) |
+| Hosting Team | The [hosting test runner](https://github.com/WordPress/phpunit-test-runner/pulls?q=is%3Apr+author%3Aekamran) and the [Hosting Handbook](https://github.com/WordPress/hosting-handbook/pulls?q=is%3Apr+author%3Aekamran) |
 | AI plugin | [Merged pull requests in WordPress/ai](https://github.com/WordPress/ai/pulls?q=is%3Apr+author%3Aekamran+is%3Amerged) |
 | WP-CLI | [Pull requests across wp-cli](https://github.com/pulls?q=is%3Apr+author%3Aekamran+org%3Awp-cli) |
-| Hosting Team | The [hosting test runner](https://github.com/WordPress/phpunit-test-runner/pulls?q=is%3Apr+author%3Aekamran) and the [Hosting Handbook](https://github.com/WordPress/hosting-handbook/pulls?q=is%3Apr+author%3Aekamran) |
-| Meta | [WordCamp.org](https://github.com/WordPress/wordcamp.org/pulls?q=is%3Apr+author%3Aekamran+is%3Amerged) and the [Pattern Directory](https://github.com/WordPress/pattern-directory/pulls?q=is%3Apr+author%3Aekamran+is%3Amerged) |
 | Documentation | [Pull requests to the WordPress and WP-CLI handbooks](https://github.com/pulls?q=is%3Apr+author%3Aekamran+is%3Amerged+repo%3AWordPress%2FAdvanced-administration-handbook+repo%3AWordPress%2Fcontributor-handbook+repo%3AWordPress%2Ftest-handbook+repo%3Awp-cli%2Fhandbook) |
 | Translation | Hindi translations on translate.wordpress.org, as a Translation Editor |
-| Testing | Patch testing for core tickets |
-
-Badges on [my WordPress.org profile](https://profiles.wordpress.org/ekamran/): Core, Core AI, Meta, Hosting, Playground, Test, Documentation, Pathways, Translation Contributor, Translation Editor, Pattern Author, Photo and Plugin Developer.
+| Testing | Patch testing for core tickets, Test Contributor badge on [my WordPress.org profile](https://profiles.wordpress.org/ekamran/) |
 
 How I work: pick a bug that has been open for years, reproduce it with a runtime proof, fix it with tests, and stay with the pull request until it lands.
 
