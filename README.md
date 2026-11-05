@@ -6,7 +6,7 @@ My work spans web development, hosting infrastructure, open source, and automati
 
 I'm the founder of [ShifteQ](https://shifteq.com), a domain investor, and a WordPress contributor. Outside client work, I'm usually exploring new ideas, experimenting with tools, or building something simply because I think it should exist.
 
-I also ride a Suzuki Burgman. Not everything needs a GitHub repository.
+A next-level introvert who rides a Suzuki Burgman. Not everything needs a GitHub repository. Or a conversation.
 
 **Contributing**<br>
 WordPress Core (credited in 7.1) · AI plugin · WP-CLI · Hosting Team · Hindi Translation Editor
